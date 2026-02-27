@@ -46,4 +46,8 @@ MonoBehaviour:
   _processorFavor: 0
   systemSplashScreen: {fileID: 0}
   systemSplashScreenType: 0
+<<<<<<< HEAD
   _systemLoadingScreenBackground: 1
+=======
+  _systemLoadingScreenBackground: 0
+>>>>>>> 2cfd4d3ac61e8692240c7e2665cfa78919d14868

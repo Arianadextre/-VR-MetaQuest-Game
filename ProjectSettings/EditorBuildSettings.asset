@@ -9,7 +9,11 @@ EditorBuildSettings:
     path: Assets/Scenes/elimnalo.unity
     guid: 99c9720ab356a0642a771bea13969a05
   - enabled: 1
+<<<<<<< HEAD
     path: Assets/Scenes/avance grupo 13.unity
+=======
+    path: Assets/avance grupo 13.unity
+>>>>>>> 2cfd4d3ac61e8692240c7e2665cfa78919d14868
     guid: bff2bf2702870894586dec2db9225004
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 015775e753d236f40b7016c6bd483e39,
